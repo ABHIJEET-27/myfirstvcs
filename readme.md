@@ -1,4 +1,4 @@
-Demonstarting Git abilities
+Demonstarting Git Capabilities
 
 Need to add branching strategy
 Demonstrate Git further
