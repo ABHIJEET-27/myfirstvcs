@@ -1,4 +1,4 @@
-12345678Demonstarting Git Capabilities
+456Demonstarting Git Capabilities
 
 Need to add branching strategy
 Demonstrate Git further
